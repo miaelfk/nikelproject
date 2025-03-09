@@ -1,7 +1,7 @@
 
 </head>
 <body>
-    <h1>🚀 Nikel Project</h1>
+    <h1>Nikel Project</h1>
     <p><strong>Projeto Multi-skills desenvolvido durante o programa Growdev/Codaí</strong></p>
     <h2 id="tecnologias-utilizadas">🛠️ Tecnologias Utilizadas</h2>
     <ul>
